@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi 👋, I'm Tushar Paul <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# Hi 👋, Tushar This Side <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
