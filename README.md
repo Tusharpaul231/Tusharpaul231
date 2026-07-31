@@ -70,5 +70,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tusharpaul_321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharpaul_321" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tushar-paul-8b3856375/" target="blank"><img align="center" src="https://camo.githubusercontent.com/3148513c7d662c2045867dc86bc016dcfae99e7fa26bc8cb17d799a8c186b984/68747470733a2f2f726561646d65636f646567656e2e76657263656c2e6170702f6170692f736f6369616c2d69636f6e3f6e616d653d6c696e6b6564696e267468656d653d6461726b" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/the_tp.com_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_tp.com_" height="30" width="40" /></a>
 </p>
